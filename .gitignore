@@ -1,0 +1,8 @@
+
+web_service/.DS_Store
+
+web_service/__pycache__/
+
+web_service/infohub/__pycache__/
+
+web_service/infohub/migrations/__pycache__/
